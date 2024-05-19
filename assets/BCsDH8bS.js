@@ -1,0 +1,1 @@
+import{u as s,c as e,o as n,F as a,a as t}from"./5ThHwvKD.js";const o=t("h1",null,"TRANSFORM",-1),r=t("button",{class:"btn btn-danger"},"TEST",-1),d={__name:"transform",setup(c){return s({link:[{rel:"stylesheet",href:"https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"}]}),(l,_)=>(n(),e(a,null,[o,r],64))}};export{d as default};
